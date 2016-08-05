@@ -35,6 +35,7 @@ For **Part 3**, take your part 2 file and extend it to include the interactive f
 For Parts **2** and **3**, please note that all style rules are to be included in the style section, and there should be no use of inline style.
 
 *Here are the requirements and further information for each of the 3 parts.*
+https://docs.google.com/a/west-mec.org/document/d/1b1g6QRBMecAdNr_mVJphqam4mdx6P44ZeDrvhuq5jG8/edit?usp=sharing
 
 **Further Notes**
 
